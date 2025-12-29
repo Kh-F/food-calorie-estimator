@@ -1,12 +1,23 @@
----
-title: Food Calorie Estimator
-emoji: 🐨
-colorFrom: purple
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.2.0
-app_file: app.py
-pinned: false
----
+# Food Calorie Estimator 🍽️
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+A lightweight AI-powered web application that estimates food calories directly from an uploaded image.  
+Built using Computer Vision and deployed with Gradio on Hugging Face Spaces.
+
+## 🚀 Live Demo
+You can try the app here:  
+https://huggingface.co/spaces/Kh-Fath/food-calorie-estimator
+
+## 🔍 Features
+- Image-based food recognition  
+- Approximate calorie estimation  
+- Clean and simple Gradio interface  
+- Fast and lightweight deployment  
+
+## 🛠 Tech Stack
+- Python  
+- Gradio  
+- Computer Vision  
+- Hugging Face Spaces  
+
+## 📁 Project Structure
+
